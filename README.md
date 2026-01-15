@@ -20,3 +20,5 @@ This project demonstrates a simple production-style DevOps workflow:
 - Docker + Docker Hub
 - GitHub Actions (CI/CD)
 - AWS EC2 (Ubuntu)
+
+Screenshots of my efforts and results including some descriptions:
