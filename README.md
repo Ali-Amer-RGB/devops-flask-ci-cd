@@ -29,15 +29,24 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="1069" height="445" alt="Screenshot 2026-01-15 202453" src="https://github.com/user-attachments/assets/d55e842b-fea5-4fd6-852d-10ba27ef2a8f" /><br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 **I installed the Python packages and then decided to test the app by running it:**
 
 <img width="1119" height="406" alt="Screenshot 2026-01-15 202653" src="https://github.com/user-attachments/assets/b67c2da3-917c-4617-99b6-223aca41c2b1" />
+<br>
+<br>
 <img width="495" height="222" alt="Screenshot 2026-01-15 202820" src="https://github.com/user-attachments/assets/4ae01a91-a77a-4ce4-b53c-763919f2dc03" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
 
 **I created a Dockerfile, ensured I have installed Docker for Desktop onto my machine and enabled WSL integration, and then sorted out permissions issue so I could rub a Docker build:**
 
@@ -48,6 +57,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <br>
 <br>
 <img width="1120" height="528" alt="Screenshot 2026-01-16 150128" src="https://github.com/user-attachments/assets/51dd32c0-c9c3-4f5d-92d7-0fb8195003ba" /><br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -62,10 +75,18 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="1057" height="253" alt="Screenshot 2026-01-16 150733" src="https://github.com/user-attachments/assets/16f6f958-9a32-4e6d-b503-acc96f003602" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **I pushed the files to my Github Repo and made sure I have set the correct configurations for a successful connection:**
 
 <img width="911" height="288" alt="Screenshot 2026-01-16 151536" src="https://github.com/user-attachments/assets/02bf5623-2d96-4886-b46a-302fad260a9d" />
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -77,6 +98,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="1016" height="619" alt="Screenshot 2026-01-16 152230" src="https://github.com/user-attachments/assets/7b554d38-1221-4292-b3c5-7cec9806c83e" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 **I resolved a Git push rejection by rebasing local changes, then implemented a GitHub Actions CI pipeline to automatically build and push a Docker image to Docker Hub on every push to main branch:**
@@ -85,6 +110,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <br>
 <br>
 <img width="889" height="660" alt="Screenshot 2026-01-16 152850" src="https://github.com/user-attachments/assets/90588a2b-4f0a-43e7-acab-17ce540ed3bb" />
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -100,6 +129,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="856" height="692" alt="Screenshot 2026-01-16 154548" src="https://github.com/user-attachments/assets/995ebe53-0aa5-4c6c-bbb3-f122fdd29cf4" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **I triggered and verified a successful GitHub Actions CI run using an empty commit, confirming automated Docker image build and push functionality:**
 
@@ -109,6 +142,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="2487" height="1275" alt="Screenshot 2026-01-16 155336" src="https://github.com/user-attachments/assets/1974ac77-92ba-4dc4-ad4d-cc820c3405b0" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **I provisioned an AWS EC2 instance and securely connected via SSH using a key pair, preparing the server for application deployment:**
 
@@ -116,6 +153,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <br>
 <br>
 <img width="911" height="919" alt="Screenshot 2026-01-16 160344" src="https://github.com/user-attachments/assets/689b2a4b-a51f-440e-a3e4-ff68d05259a9" />
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -130,6 +171,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="501" height="171" alt="Screenshot 2026-01-16 160627" src="https://github.com/user-attachments/assets/b4404d39-738b-4fd4-9a0f-de5c773e58fb" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **I added Nginx as a reverse proxy in front of the Dockerized Flask application and implemented a deployment script to automate container updates on the EC2 instance:**
 
@@ -139,6 +184,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <img width="1104" height="295" alt="Screenshot 2026-01-16 161309" src="https://github.com/user-attachments/assets/11d04904-a7b8-40d2-8b61-3bdae073e72c" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **I generated a dedicated SSH key for GitHub Actions and configured encrypted repository secrets to allow secure, automated deployments to an EC2 instance:**
 
@@ -146,6 +195,10 @@ This project demonstrates a simple production-style DevOps workflow:
 <br>
 <br>
 <img width="836" height="435" alt="Screenshot 2026-01-16 163853" src="https://github.com/user-attachments/assets/dfcd5aa7-c22c-4b68-91c5-24ea1698f4b9" />
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
