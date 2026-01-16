@@ -53,6 +53,36 @@ I created a Dockerfile, ensured I have installed Docker for Desktop onto my mach
 <br>
 <br>
 
+I cleaned up any existing containers and initiated the container. And then I pushed the image to my DockerHub:
+
+<img width="1046" height="319" alt="Screenshot 2026-01-16 150157" src="https://github.com/user-attachments/assets/821125df-b14a-4370-b26e-6e6957a00ddd" />
+<br>
+<br>
+<img width="407" height="199" alt="Screenshot 2026-01-16 150226" src="https://github.com/user-attachments/assets/a695c1d2-8399-4a98-81ea-67fe64fb491e" />
+<br>
+<br>
+<img width="1057" height="253" alt="Screenshot 2026-01-16 150733" src="https://github.com/user-attachments/assets/16f6f958-9a32-4e6d-b503-acc96f003602" />
+<br>
+<br>
+
+I pushed the files to my Github Repo and made sure I have set the correct configurations for a successful connection:
+
+<img width="911" height="288" alt="Screenshot 2026-01-16 151536" src="https://github.com/user-attachments/assets/02bf5623-2d96-4886-b46a-302fad260a9d" />
+<br>
+<br>
+
+I generated a SSH key, started the SSH agent and then configured Github authentication for sercure, passwordless, repository access:
+
+<img width="981" height="564" alt="Screenshot 2026-01-16 152133" src="https://github.com/user-attachments/assets/cb3e5852-c6b3-497c-85e0-02cc2985572c" />
+<br>
+<br>
+<img width="1016" height="619" alt="Screenshot 2026-01-16 152230" src="https://github.com/user-attachments/assets/7b554d38-1221-4292-b3c5-7cec9806c83e" />
+<br>
+<br>
+
+
+
+
 
 
 
